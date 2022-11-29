@@ -30,4 +30,4 @@ request.body :
         ]
  }
 ```
-` returns : "Room has been created successfully"
+` returns : "Room has been created successfully"`
